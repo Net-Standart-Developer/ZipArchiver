@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\bin\Debug\Archiver.Model.dll
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\bin\Debug\Archiver.Model.pdb
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\obj\Debug\Archiver.Model.dll
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\obj\Debug\Archiver.Model.pdb
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\obj\Debug\Archiver.Model.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\bin\Debug\System.Buffers.dll
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\bin\Debug\System.Buffers.xml
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\obj\Debug\Archiver.Model.csproj.CopyComplete
+C:\Users\Админ\source\repos\Archiver\Archiver.Model\obj\Debug\Archiver.Model.csproj.CoreCompileInputs.cache

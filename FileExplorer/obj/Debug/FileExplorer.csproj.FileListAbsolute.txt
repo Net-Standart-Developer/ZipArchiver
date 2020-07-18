@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\FileExplorer.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.Wpf.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\System.ValueTuple.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.pdb
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.xml
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.Wpf.pdb
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\Prism.Wpf.xml
+C:\Users\Админ\source\repos\Archiver\FileExplorer\bin\Debug\System.ValueTuple.xml
+C:\Users\Админ\source\repos\Archiver\FileExplorer\obj\Debug\FileExplorer.csproj.CopyComplete
+C:\Users\Админ\source\repos\Archiver\FileExplorer\obj\Debug\FileExplorer.dll
+C:\Users\Админ\source\repos\Archiver\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Админ\source\repos\Archiver\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Archiver\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache

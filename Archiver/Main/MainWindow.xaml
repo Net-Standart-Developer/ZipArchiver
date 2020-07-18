@@ -1,0 +1,33 @@
+﻿<Window x:Class="Archiver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Archiver"
+        xmlns:usel="clr-namespace:Archiver.Main.UserElements"
+        xmlns:vm="clr-namespace:Archiver.Main.ViewModels"
+        mc:Ignorable="d"
+        Title="Archiver" Height="450" Width="800" Icon="/Resources/Icons/zip.png">
+    
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+    <Grid Background="{DynamicResource ControlLightBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <usel:Menu/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <usel:FileExplorer x:Name="fileExplorer" Grid.Column="0"/>
+            <GridSplitter Grid.Column="1" Width="3" HorizontalAlignment="Center" VerticalAlignment="Stretch" ShowsPreview="True" Background="{DynamicResource GridSplitterBackground}"/>
+            <usel:MainArchiverField x:Name="mainArchivedField" Grid.Column="2"/>
+        </Grid>
+    </Grid>
+</Window>

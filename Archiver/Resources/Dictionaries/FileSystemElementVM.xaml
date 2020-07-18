@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:Archiver.Main.ViewModels">
+
+    <HierarchicalDataTemplate DataType="{x:Type vm:FileSystemElementViewModel}" 
+                              ItemsSource="{Binding Path=SubFileSystemElements}">
+        <StackPanel Orientation="Horizontal">
+            <Image Source="{Binding Icon}" Width="20" Height="20"/>
+            <TextBlock Text="{Binding Name}"/>
+        </StackPanel>
+    </HierarchicalDataTemplate>
+</ResourceDictionary>
